@@ -28,7 +28,7 @@ This repository currently contains the initial project structure and planning fi
 # Team Members
 - **Student 1 (Team Lead):  @amirreza1122333
 - **Student 2:** @USERNAME2
-- **Student 3:** @USERNAME3
+- **Student 3:** @arshiakamyabian
 
 ---
 
